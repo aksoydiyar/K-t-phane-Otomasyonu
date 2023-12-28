@@ -1,0 +1,15 @@
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Form1.resources
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Sifre_Deyistirme_Paneli.resources
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.admin_paneli.resources
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Kullanıcı_yönetim_paneli.resources
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Kitap_yönetim_paneli.resources
+C:\Users\aksoy\OneDrive\Masaüstü\kütüphane otomasyonu\Kutuphane\Kutuphane\obj\Debug\Kutuphane.kullanici.resources
